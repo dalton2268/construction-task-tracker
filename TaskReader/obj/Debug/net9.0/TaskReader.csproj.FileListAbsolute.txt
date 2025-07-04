@@ -1,0 +1,15 @@
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\bin\Debug\net9.0\TaskReader.exe
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\bin\Debug\net9.0\TaskReader.deps.json
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\bin\Debug\net9.0\TaskReader.runtimeconfig.json
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\bin\Debug\net9.0\TaskReader.dll
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\bin\Debug\net9.0\TaskReader.pdb
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\obj\Debug\net9.0\TaskReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\obj\Debug\net9.0\TaskReader.AssemblyInfoInputs.cache
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\obj\Debug\net9.0\TaskReader.AssemblyInfo.cs
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\obj\Debug\net9.0\TaskReader.csproj.CoreCompileInputs.cache
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\obj\Debug\net9.0\TaskReader.sourcelink.json
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\obj\Debug\net9.0\TaskReader.dll
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\obj\Debug\net9.0\refint\TaskReader.dll
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\obj\Debug\net9.0\TaskReader.pdb
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\obj\Debug\net9.0\TaskReader.genruntimeconfig.cache
+C:\Users\dalto\Projects\construction-task-tracker\TaskReader\obj\Debug\net9.0\ref\TaskReader.dll
