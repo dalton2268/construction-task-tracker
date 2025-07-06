@@ -9,7 +9,19 @@
   <task id="2">
     <name>HVAC</name>
     <assignedTo>Dalton Poppell</assignedTo>
-    <status>Pending</status>
+    <status>Complete</status>
     <dueDate>2025-07-25</dueDate>
+  </task>
+  <task id="3">
+    <name>Plumbing</name>
+    <assignedTo>Dalton</assignedTo>
+    <status>Complete</status>
+    <dueDate>2025-07-25</dueDate>
+  </task>
+  <task id="4">
+    <name>Paint</name>
+    <assignedTo>Katelyn</assignedTo>
+    <status>Open</status>
+    <dueDate>2025-07-31</dueDate>
   </task>
 </tasks>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskReader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+622e7dd50c1cb77511a585b4c4749699793f9cae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33791747bdfe1291ef5bbadeba9cb9df30e95443")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskReader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskReader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
