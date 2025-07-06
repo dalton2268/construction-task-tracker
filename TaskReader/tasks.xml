@@ -1,15 +1,15 @@
-<?xml version ="1.0" encoding = "UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <tasks>
-    <task id="1">
-        <name>Excavation</name>
-        <assignedTo>John Smith</assignedTo>
-        <status>Open</status>
-        <dueDate>2025-07-10</dueDate>
-    </task>
-    <task id="2">
-        <name>HVAC</name>
-        <assignedTo>Dalton Poppell</assignedTo>
-        <status>Pending</status>
-        <dueDate>2025-07-25</dueDate>
-    </task>
+  <task id="1">
+    <name>Excavation</name>
+    <assignedTo>John Smith</assignedTo>
+    <status>Complete</status>
+    <dueDate>2025-07-10</dueDate>
+  </task>
+  <task id="2">
+    <name>HVAC</name>
+    <assignedTo>Dalton Poppell</assignedTo>
+    <status>Pending</status>
+    <dueDate>2025-07-25</dueDate>
+  </task>
 </tasks>

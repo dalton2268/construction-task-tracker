@@ -25,3 +25,22 @@ else{
 
     }
 }
+
+Console.Write("Enter the name of a task to mark as Complete (or press Enter to skip): ");
+string taskToComplete = Console.ReadLine()?.Trim();
+
+if(!string.IsNullOrWhiteSpace(taskToComplete))
+{
+    var taskToUpdate = xml.Descendants("task")
+    .FirstOrDefault(t=> string.Equals(t.Element("name")?.Value,taskToComplete, StringComparison.OrdinalIgnoreCase));
+    if(taskToUpdate != null)
+    {
+        taskToUpdate.Element("status")!.Value = "Complete";
+        Console.WriteLine($"marked task '{taskToComplete}' as Complete.");
+    }
+    else
+    {
+        Console.WriteLine($"Task '{taskToComplete}' not found.");
+    }
+}
+xml.Save("tasks.xml");
